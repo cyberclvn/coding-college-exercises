@@ -10,6 +10,9 @@ public class TestLinkedList {
         l.insertElemDec(50);
         l.insertHead(109);
         l.print();
+
+        l.invertList1();
+        l.print();
         
     }
 }

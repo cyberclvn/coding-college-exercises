@@ -130,6 +130,7 @@ public class LinkedList {
         return cont;
     }
 
+    //extra method #1 
     public void insertElemCres(int id){
         Node pAnt = null;
         Node pAnda = head;
@@ -156,6 +157,7 @@ public class LinkedList {
 
     }
 
+    //extra method #2
     public void insertElemDec(int id){
             
         Node pAnt = null;
